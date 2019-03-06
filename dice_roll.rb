@@ -8,5 +8,5 @@
 
 
 def roll
-  Array.new(1..6).sample
+  (1..6).sample
 end
